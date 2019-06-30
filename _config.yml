@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://2yuna.github.io"
-title: 하루를 남기며 # site's title
+title: YONA # site's title
 description: "Yona's blog" # used by search engines
 remote_theme: sylhare/Type-on-Strap
 
@@ -20,7 +20,7 @@ theme_settings:
   favicon: assets/favicon.ico
 
   # Header and footer text
-  header_text: Change header text in <code>_config.yml</code>
+  header_text: 하루를 남기며
   header_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
     Powered by <a href="https://github.com/2yuna">2yuna</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
