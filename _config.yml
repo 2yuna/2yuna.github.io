@@ -2,7 +2,7 @@
 baseurl: ""
 url: "https://2yuna.github.io"
 title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
+description: "Yona's blog" # used by search engines
 remote_theme: sylhare/Type-on-Strap
 
 defaults:
@@ -100,7 +100,7 @@ authors:
   sylhare:
     name: Sylhare
     avatar: "assets/img/avatars/sylhare_avatar.png"
-    url: "https://github.com/sylhare"
+    url: "https://github.com/2yuna"
 
 # PORTFOLIO
 collections:
