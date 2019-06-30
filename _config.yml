@@ -6,7 +6,7 @@ description: "Yona's blog" # used by search engines
 remote_theme: sylhare/Type-on-Strap
 
 defaults:
-  - 
+  -
     scope:
       path: "" # an empty string here means all files in the project
     values:
@@ -21,7 +21,7 @@ theme_settings:
 
   # Header and footer text
   header_text: 하루를 남기며
-  header_feature_image: assets/img/pexels/triangular.jpeg
+  header_feature_image: assets/img/pexels/header-night.jpeg
   footer_text: >
     Powered by <a href="https://github.com/2yuna">2yuna</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
@@ -62,7 +62,7 @@ theme_settings:
     wordpress:
     email: true
 
-  # Scripts / Features 
+  # Scripts / Features
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
@@ -96,7 +96,7 @@ authors:
   mhagnumdw: # author-id
     name: MhagnumDw
     avatar: "assets/img/avatars/mhagnumdw_avatar.jpg"
-    url: 
+    url:
   sylhare:
     name: Sylhare
     avatar: "assets/img/avatars/sylhare_avatar.png"
