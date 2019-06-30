@@ -21,7 +21,7 @@ theme_settings:
 
   # Header and footer text
   header_text: 하루를 남기며
-  header_feature_image: assets/img/pexels/header-night.jpeg
+  header_feature_image: assets/img/pexels/header-night-s.jpg
   footer_text: >
     Powered by <a href="https://github.com/2yuna">2yuna</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
